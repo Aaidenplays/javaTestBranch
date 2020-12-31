@@ -1,0 +1,5 @@
+insert into alien values (101, 'aaiden', 'java')
+insert into alien values (102, 'Sean', 'java')
+insert into alien values (103, 'John', 'java')
+insert into alien values (104, 'Jorge', 'java')
+insert into alien values (105, 'Sam', 'java')
