@@ -12,6 +12,14 @@ public class Alien {
 	private String tech;
 
 	
+	public String getTech() {
+		return tech;
+	}
+
+	public void setTech(String tech) {
+		this.tech = tech;
+	}
+
 	@Override
 	public String toString() {
 		return "Alien [aid=" + aid + ", aname=" + aname + "]";
